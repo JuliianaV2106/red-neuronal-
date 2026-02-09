@@ -1,4 +1,7 @@
-# Red Neuronal desde Cero y Comparación con Keras
+# Red Neuronal desde Cero 
+* Angela Maria Gonzalez Cordoba
+* Juan Manuel Casanova Marin
+* Juliana Filigrana Valencia
 
 ## Descripción
 Este proyecto implementa una red neuronal básica desde cero utilizando
